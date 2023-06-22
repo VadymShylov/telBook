@@ -45,15 +45,19 @@ export default function ContactList() {
               <ListItem
                 sx={{
                   justifyContent: 'space-between',
+                  paddingLeft: '0',
+                  paddingRight: '0',
+                  overflow: 'hidden',
                 }}
                 key={contact.id}
               >
                 <Typography
                   component="p"
                   sx={{
+                    display: 'flex',
+                    flexWrap: 'wrap',
                     fontSize: '20px',
                     fontWeight: '700',
-                    width: '120px',
                     color: '#040c0e',
                     textShadow:
                       ' 0 0 5px #ffffff, 0 0 15px #ffffff, 0 0 5px #ffffff, 0 0 10px #a37c27, 0 0 20px #a37c27, 0 0 25px #a37c27, 0 0 25px #a37c27, 0 0 50px #a37c27;',
@@ -68,7 +72,6 @@ export default function ContactList() {
                     sx={{
                       fontSize: '20px',
                       fontWeight: '600',
-                      width: '120px',
                       color: '#040c0e',
                       textShadow:
                         ' 0 0 5px #ffffff, 0 0 15px #ffffff, 0 0 5px #ffffff, 0 0 10px #a37c27, 0 0 20px #a37c27, 0 0 25px #a37c27, 0 0 25px #a37c27, 0 0 50px #a37c27;',
@@ -80,7 +83,9 @@ export default function ContactList() {
                 <CustomButton
                   type="button"
                   style={{
-                    width: '100px',
+                    width: '40px',
+                    paddingLeft: '0',
+                    paddingRight: '0',
                   }}
                   onClick={() => onDeleteContact(contact.id)}
                 >
