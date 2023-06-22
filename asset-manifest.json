@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/telBook/static/css/main.ae519426.css",
-    "main.js": "/telBook/static/js/main.d6a03d85.js",
+    "main.js": "/telBook/static/js/main.2a9dbcf8.js",
     "static/js/776.b8632a9a.chunk.js": "/telBook/static/js/776.b8632a9a.chunk.js",
     "static/js/37.f9ef7c6b.chunk.js": "/telBook/static/js/37.f9ef7c6b.chunk.js",
     "static/js/182.6085595b.chunk.js": "/telBook/static/js/182.6085595b.chunk.js",
-    "static/js/512.cf64da3f.chunk.js": "/telBook/static/js/512.cf64da3f.chunk.js",
+    "static/js/512.d99a8ba9.chunk.js": "/telBook/static/js/512.d99a8ba9.chunk.js",
     "static/js/186.39ca9b49.chunk.js": "/telBook/static/js/186.39ca9b49.chunk.js",
     "static/css/544.fb68114e.chunk.css": "/telBook/static/css/544.fb68114e.chunk.css",
     "static/media/Petals-PNG-Picture.png": "/telBook/static/media/Petals-PNG-Picture.b1b0a5ecaa413f0fcfb8.png",
     "index.html": "/telBook/index.html",
     "main.ae519426.css.map": "/telBook/static/css/main.ae519426.css.map",
-    "main.d6a03d85.js.map": "/telBook/static/js/main.d6a03d85.js.map",
+    "main.2a9dbcf8.js.map": "/telBook/static/js/main.2a9dbcf8.js.map",
     "776.b8632a9a.chunk.js.map": "/telBook/static/js/776.b8632a9a.chunk.js.map",
     "37.f9ef7c6b.chunk.js.map": "/telBook/static/js/37.f9ef7c6b.chunk.js.map",
     "182.6085595b.chunk.js.map": "/telBook/static/js/182.6085595b.chunk.js.map",
-    "512.cf64da3f.chunk.js.map": "/telBook/static/js/512.cf64da3f.chunk.js.map",
+    "512.d99a8ba9.chunk.js.map": "/telBook/static/js/512.d99a8ba9.chunk.js.map",
     "186.39ca9b49.chunk.js.map": "/telBook/static/js/186.39ca9b49.chunk.js.map",
     "544.fb68114e.chunk.css.map": "/telBook/static/css/544.fb68114e.chunk.css.map"
   },
   "entrypoints": [
     "static/css/main.ae519426.css",
-    "static/js/main.d6a03d85.js"
+    "static/js/main.2a9dbcf8.js"
   ]
 }
