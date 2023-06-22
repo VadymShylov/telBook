@@ -58,7 +58,7 @@ export default function ContactForm() {
 
   return (
     <Container>
-      <CustomTypography variant="h2">Add new contacts below</CustomTypography>
+      <CustomTypography variant="h2">Add new contacts </CustomTypography>
       <form onSubmit={handleAddContact}>
         <Box
           sx={{
